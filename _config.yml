@@ -28,10 +28,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 domain: smart-hjem.github.io
 url: https://smart-hjem.github.io # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: telkampOG
-github_username:  telkamp7
+github_username: telkamp7
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
