@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="https://smart-hjem.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://smart-hjem.github.io/" rel="alternate" type="text/html" /><updated>2025-01-02T12:14:31+01:00</updated><id>https://smart-hjem.github.io/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Byg dit eget smarte hjem!</title><link href="https://smart-hjem.github.io/smart/home/2025/01/02/byg-dig-eget-smart-hjem.html" rel="alternate" type="text/html" title="Byg dit eget smarte hjem!" /><published>2025-01-02T10:17:48+01:00</published><updated>2025-01-02T10:17:48+01:00</updated><id>https://smart-hjem.github.io/smart/home/2025/01/02/byg-dig-eget-smart-hjem</id><content type="html" xml:base="https://smart-hjem.github.io/smart/home/2025/01/02/byg-dig-eget-smart-hjem.html"><![CDATA[<p>Velkommen til fremtiden, hvor teknologi gør vores hjem smartere og mere effektive! Hvis du nogensinde har drømt om at styre lys, varme eller sikkerhed fra din telefon, så er det ny muligt - og du kan bygge det selv.</p>
+
+<h1 id="hvorfor-raspberry-pi">Hvorfor Raspberry Pi?</h1>
+
+<p>Raspberry Pi er en lille og overkommelig computer, der kan bruges til utallige projekter. Dens fleksibilitet og kompabilitet med open source-software gør den til det perfekte valg for smarte hjem-applikationer.</p>
+
+<h1 id="hvad-kan-du-bygge">Hvad kan du bygge?</h1>
+
+<p>Her er nogle idéer, som du kan implementere i dit eget hjem:</p>
+<ul>
+  <li><strong>Automatisk lysstyring</strong>: Styr lys baseret på tid eller bevægelse.</li>
+  <li><strong>Smart termostat</strong>: Hold styr på temperaturen og spar energi.</li>
+  <li><strong>Sikkerhedssystem</strong>: Opsæt kameraer og sensorer, der sender notifikationer direkte til din telefon.</li>
+  <li><strong>Multimediecenter</strong>: Stream musik og film på dine enheder.</li>
+</ul>
+
+<p>For at gøre dit projekt så simpelt som muligt, anbefaler vi at bruge open source-platformen <a href="https://www.home-assistant.io/"><strong>Home Assistant</strong></a></p>
+
+<h1 id="kom-i-gang">Kom i gang</h1>
+<ol>
+  <li><strong>Køb en Raspberry Pi</strong>: Start med en model som  Raspberry Pi 5 for optimal ydeevne.</li>
+  <li><strong>Installer en open source-platform</strong>: Download og installer <em>Home Assistant</em> platformen.</li>
+  <li><strong>Tilføj enheder</strong>: Forbind dine smarte enheder som lys, termostater og sensorer.</li>
+  <li><strong>Tilpas din opsætning</strong>: Brug scripts eller visuelle værktøjer til at lave automatiseringer.</li>
+</ol>
+
+<h1 id="hvorfor-bygge-selv">Hvorfor bygge selv?</h1>
+<p>Ved at bygge dit eget smarte hjem lærer du værdifulde tekniske færdigheder, sparer penge og får et system der er fuldt tilpasset dine behov. Det er en spændende måde at kombinere teknologi og kreativitet på.</p>]]></content><author><name></name></author><category term="smart" /><category term="home" /><summary type="html"><![CDATA[Velkommen til fremtiden, hvor teknologi gør vores hjem smartere og mere effektive! Hvis du nogensinde har drømt om at styre lys, varme eller sikkerhed fra din telefon, så er det ny muligt - og du kan bygge det selv.]]></summary></entry></feed>
